@@ -29,7 +29,7 @@ Este proyecto es una aplicación de escritorio diseñada para calcular y gestion
 
 Para instalar Introducción a la Programación - FBLA, sigue estos pasos:
 
-1. Descarga el archivo de instalación desde [[enlace al archivo de instalación](https://github.com/elo356/Introduction-to-Programming-FBLA-Event-/blob/main/FBLA%20Event%20EXPORT.zip)].
+1. Descarga el archivo de instalación desde https://github.com/elo356/Introduction-to-Programming-FBLA-Event/blob/master/FBLA%20Event%20EXPORT.zip.
 2. Extrae el archivo .zip descargado.
 3. Ejecuta el instalador y sigue las instrucciones en pantalla para completar la instalación.
 
@@ -44,5 +44,5 @@ Para utilizar este programa, sigue estos pasos:
 
 ## Créditos
 
-Este proyecto fue desarrollado por [Elián E. Soto Ramos] y [Armany E. Bruno Alejandro] como parte del taller [Información Tecnológica] de la [Escuela Superior Vocacional Ruth E. Cruz Santos, Cidra].
+Este proyecto fue desarrollado por Elián E. Soto Ramos y Armany E. Bruno Alejandro como parte del taller Información Tecnológica de la Escuela Superior Vocacional Ruth E. Cruz Santos, Cidra.
 
