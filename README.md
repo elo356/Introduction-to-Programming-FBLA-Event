@@ -21,11 +21,6 @@ Este proyecto es una aplicación de escritorio diseñada para calcular y gestion
 - **Diseño Amigable:** Interfaz limpia y fácil de usar, con botones intuitivos para acciones rápidas.
 - **Visualización de Resultados:** Muestra los promedios calculados de manera clara y legible para una rápida comprensión.
 
-## Capturas de Pantalla
-
-[cap1](https://github.com/elo356/Introduction-to-Programming-FBLA-Event/assets/101150598/f24ffcb6-ef7c-412d-9a7f-ffd1d4cb324b)
-
-
 ## Instalación
 
 Para instalar Introducción a la Programación - FBLA, sigue estos pasos:
