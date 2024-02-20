@@ -23,7 +23,8 @@ Este proyecto es una aplicación de escritorio diseñada para calcular y gestion
 
 ## Capturas de Pantalla
 
-[Inserta aquí algunas capturas de pantalla de tu aplicación para ofrecer una vista previa de su interfaz]
+[cap1](https://github.com/elo356/Introduction-to-Programming-FBLA-Event/assets/101150598/f24ffcb6-ef7c-412d-9a7f-ffd1d4cb324b)
+
 
 ## Instalación
 
