@@ -40,5 +40,5 @@ Para utilizar este programa, sigue estos pasos:
 
 ## Créditos
 
-Este proyecto fue desarrollado por Elián E. Soto Ramos y Armany E. Bruno Alejandro como parte del taller Información Tecnológica de la Escuela Superior Vocacional Ruth E. Cruz Santos, Cidra.
+Este proyecto fue desarrollado por Elián E. Soto Ramos como parte del taller Información Tecnológica de la Escuela Superior Vocacional Ruth E. Cruz Santos, Cidra.
 
